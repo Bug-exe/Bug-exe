@@ -15,6 +15,9 @@ Actualmente la mayoria son bots de discord, ¿Por qué? pues... tengo mas proyec
 > Bots de Discord MultiFuncionales programados en JavaScript: [[Simple Coffee](https://discord.gg/3x5nWkKAzr)] [[Vipex](https://discord.gg/kfCw8vE)]  [[World](https://discord.gg/ybJ8dzzCPM)]  [[Kone](https://discord.gg/bweRr6YQZY)]
 
 > [Micro](https://discord.gg/gsSCDvjbpu) - Un Bot de Discord (apenas me uni a este) programado en Python.
+
+> [Zeew Api](https://discord.gg/Nuxu9ZE) [[NPM]](https://www.npmjs.com/package/zeew) - Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
+
 ## 📫  Comunicate Conmigo: 
 
 ![twitter](https://i.imgur.com/HeZ0zJn.png) [@MrBugexe](https://twitter.com/MrBugexe)
