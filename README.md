@@ -1,27 +1,46 @@
+Actualmente estoy trabajando en [Simple Coffee](https://discord.gg/3x5nWkKAzr) <div>[![GitHub SrGobi](https://img.shields.io/github/followers/Bug-exe?label=follow&style=social)](https://github.com/Bug-exe) ![](https://komarev.com/ghpvc/?username=Bug-exe&color=green)</div>
 
-<!---
-Bug-exe/Bug-exe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# 🖐 Hola soy {Bug.exe}
+### Programación:
+<p>
+  <img align="left" alt="VSC" width="26px" src="https://api.iconify.design/mdi:visual-studio-code.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="Node.js" width="26px" src="https://api.iconify.design/mdi:nodejs.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="Database" width="26px" src="https://api.iconify.design/mdi:database.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="JavaScript" width="32px" src="https://api.iconify.design/mdi:language-javascript.svg?color=%2300fef4&height=32" />
+  <img align="left" alt="Python" width="32px" src="https://api.iconify.design/mdi:language-python.svg?color=%2300fef4&height=32" />
+</p>
 
-Soy un programador experimentado, Estoy familiarizado con Java, JavaScript, Python, C (y variedad), No me dedico al Desarrollo Web debido a que no se usar muy bien css, no he programado mucho ultimamente debido a mi insomnio constante mi mente es un desorden y no me concentro, Lo cual gracias a mi insomnio continuo, tambien desarrolle muy mala memoria, asi que tambien he tenido que re-aprender varias cosas gracias a eso.
+<br>
 
-Me estoy familizarizando con TypeScript e intentando no morir de sueño.
+### Technology Stack:
 
-## 🌱 Proyectos Publicos..
-Actualmente la mayoria son bots de discord, ¿Por qué? pues... tengo mas proyectos, son publicos para cualquiera pero no tengo ningun credito en ellos debido a que pedi que asi fuera, talvez sea mejor que los ponga, pero... Meh, Si quieren trabajar conmigo les enseño algun proyecto dependiendo de lo que quieran trabajar.
+<p>
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-7313aa?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
 
-> Bots de Discord MultiFuncionales programados en JavaScript: [[Simple Coffee](https://discord.gg/3x5nWkKAzr)] [[Vipex](https://discord.gg/kfCw8vE)]  [[World](https://discord.gg/ybJ8dzzCPM)]  [[Kone](https://discord.gg/bweRr6YQZY)]
+[twitter]: https://twitter.com/MrBugexe
+[discord]: https://discord.gg/HnsXsHB7Ap
+[twitch]: https://www.twitch.tv/mrbugexe
 
-> [Micro](https://discord.gg/gsSCDvjbpu) - Un Bot de Discord (apenas me uni a este) programado en Python.
 
-> [Zeew Api](https://discord.gg/Nuxu9ZE) [[NPM]](https://www.npmjs.com/package/zeew) - Una api de imagenes randoms y manipulacion de imagenes de tarjetas para creadores de bots en discord.js
 
-## 📫  Comunicate Conmigo: 
+### Sígueme:
 
-![twitter](https://i.imgur.com/HeZ0zJn.png) [@MrBugexe](https://twitter.com/MrBugexe)
+[<img align="left" alt="Twitter" width="32px" src="https://api.iconify.design/mdi:twitter.svg?color=%2300fef4&height=32" />][twitter]
+[<img align="left" alt="Discord" width="32px" src="https://api.iconify.design/mdi:discord.svg?color=%2300fef4&height=32" />][discord]
+[<img align="left" alt="Twitch" width="32px" src="https://api.iconify.design/mdi:twitch.svg?color=%2300fef4&height=32" />][twitch]
 
-Mi Comunidad de Discord: [[Click Aqui]](discord.gg/HnsXsHB7Ap)
+<br /><br />
 
-Tag de Discord: {Bug.exe}#3542
+---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Bug-exe&count_private=true&show_icons=true&title_color=246bce&text_color=ffffff&bg_color=000000&include_all_commits=true&hide_border=true&hide_title=true)
+
+
+# Discord Profile
+
+![Discord](https://discord.c99.nl/widget/theme-1/409769315357687809.png)
+![Discord Banner 2](https://discordapp.com/api/guilds/670852833549221910/widget.png?style=banner2)
