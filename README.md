@@ -43,4 +43,4 @@ Actualmente estoy trabajando en [Simple Coffee](https://discord.gg/3x5nWkKAzr) <
 # Discord Profile
 
 ![Discord](https://discord.c99.nl/widget/theme-1/409769315357687809.png)
-![Discord Banner 2](https://discordapp.com/api/guilds/670852833549221910/widget.png?style=banner2)
+![Discord Banner 2](https://discordapp.com/api/guilds/709658304971931719/widget.png?style=banner2)
